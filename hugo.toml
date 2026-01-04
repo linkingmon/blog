@@ -1,0 +1,19 @@
+baseURL = "https://linkingmon.github.io/"
+languageCode = "en-us"
+title = "Yu-Cheng's Notes"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[menu]
+  [[menu.main]]
+    name = "LeetCode"
+    url = "/leetcode/"
+    weight = 1
+  [[menu.main]]
+    name = "Book"
+    url = "/book/"
+    weight = 2
