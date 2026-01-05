@@ -10,10 +10,22 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "LeetCode"
-    url = "/leetcode/"
+    name = "Dialog"
+    url = "/Dialog/"
     weight = 1
   [[menu.main]]
-    name = "Book"
-    url = "/book/"
+    name = "LeetCode/Coding"
+    url = "/coding/"
+    weight = 1
+  [[menu.main]]
+    name = "Engineering Notes"
+    url = "/note/"
     weight = 2
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 40
