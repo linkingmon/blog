@@ -1,10 +1,9 @@
 ---
-title: "Morris Chang Biography"
+title: "Morris Chang Biography | 張忠謀自傳"
 date: 2026-05-26
 tags: ["Biography", "Silicon", "Success"]
+ai_note: "Dictated, AI-assisted, human-reviewed"
 ---
-
-*[Dictated orally and compiled by ChatGPT]*
 
 I recently spent some time reading Morris Chang’s autobiography. Interestingly, I started from the second volume first, and then went back to the first volume later.
 
@@ -63,4 +62,3 @@ Because it means our own path may also be less fixed than we think. We may not k
 And when that happens, people may look back and call it vision.
 
 But while we are living it, it may simply feel like taking the next step.
-

@@ -1,10 +1,9 @@
 ---
-title: "Curious Habits"
+title: "Curious Habits | 逆習慣"
 date: 2026-05-26
 tags: ["Habit", "Self Improvement", "Reflection"]
+ai_note: "Dictated, AI-assisted, human-reviewed"
 ---
-
-*[Dictated orally and compiled by ChatGPT]*
 
 Recently, I read a book about habits.  
 The main idea of the book is not simply “how to build a habit” or “how to change yourself in 30 days”.
