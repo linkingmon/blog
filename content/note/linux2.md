@@ -4,7 +4,7 @@ date: 2026-04-30
 tags: ["linux", "mmap"]
 ---
 
-Recently learn more linux (materials will be put [here](https://linkingmon.github.io/Algorithm/Linux).
+Recently learn more linux (materials will be put [here](https://github.com/linkingmon/tech-lab/tree/master/Linux)).
 
 ## mmap/brk and memory allocation in C
 We try to build some run and use `strace` to analyze all the syscalls, such as `execve` for execution, `brk` and `mmap` for requesting the memory, etc.
