@@ -1,7 +1,7 @@
 ---
 title: "New Reading Skills Encyclopedia | 閱讀力最新技術大全"
 date: 2023-06-23
-tags: ["Habits"]
+tags: ["Knowledge"]
 ai_note: "AI translation-rewrite, human-reviewed"
 ---
 
