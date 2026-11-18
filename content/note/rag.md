@@ -2,9 +2,8 @@
 title: "Building RAG + LLM System"
 date: 2026-05-08
 tags: ["rag", "llm", "ai", "open-webui"]
+ai_note: "Dictated, AI-assisted, human-reviewed"
 ---
-
-*[Dictated orally and compiled by ChatGPT]*
 
 Recently, I have been experimenting with OpenWebUI and trying to understand how it builds a ChatGPT-like interface on top of different language models, tools, RAG pipelines, and memory systems.
 

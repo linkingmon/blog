@@ -1,31 +1,36 @@
 baseURL = "https://linkingmon.github.io/blog/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Yu-Cheng's Notes"
 theme = "PaperMod"
 
 [params]
+  mainSections = ["note", "books", "coding", "dialog"]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   ShowToc = true
 
 [menu]
   [[menu.main]]
-    name = "Dialog"
-    url = "/Dialog/"
-    weight = 1
-  [[menu.main]]
-    name = "LeetCode/Coding"
-    url = "/coding/"
-    weight = 1
-  [[menu.main]]
     name = "Engineering Notes"
     url = "/note/"
-    weight = 2
+    weight = 1
   [[menu.main]]
     name = "Book Sharing"
     url = "/books/"
     weight = 2
   [[menu.main]]
+    name = "LeetCode/Coding"
+    url = "/coding/"
+    weight = 3
+  [[menu.main]]
+    name = "Dialog"
+    url = "/Dialog/"
+    weight = 4
+  [[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 40
+
+# Preserve inline HTML formatting in authored notes.
+[markup.goldmark.renderer]
+  unsafe = true
